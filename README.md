@@ -47,7 +47,7 @@ This template is designed to work with **hospital operational data** from:
 ## 🎯 5. Audience & Use Cases
 
 - 🏥 **Hospital Administrators** → Understand patient flow, manage resources
-- 👩‍⚕️ **ER Managers** → Monitor real-time patient stats and staff needs
+- 👩‍⚕️ **ER Managers** → Monitor real-time patient stats 
 - 📈 **Analysts & Decision-Makers** → Drive data-backed planning and improvements
 
 ---
@@ -56,23 +56,11 @@ This template is designed to work with **hospital operational data** from:
 
 | Dashboard View | Description |
 |---------------|-------------|
-| ![Dashboard Screenshot](screenshots/dashboard.png) | Overview of patient flow, referrals, and wait times |
-| ![Referrals View](screenshots/referrals.png) | Focus on patient referrals between facilities |
-| ![Trends View](screenshots/trends.png) | Insights into weekly/monthly ER trends |
-
-> 📌 Add screenshots in a `screenshots/` folder to make your README visually appealing.
+| ![Dashboard Screenshot](file:///C:/Users/Asus/Desktop/project/Hospital%20Emergency%20Room%20Dashboard/Images/dashboard%201.png) | Overview of patient flow, referrals, and wait times |
 
 ---
 
-## 🌐 7. Live Dashboard (Optional)
-
-If published via Power BI Service:  
-🔗 [View the live dashboard here](YOUR_PUBLISH_TO_WEB_LINK)  
-*(This link will be view-only, with no editing permissions.)*
-
----
-
-## 🚀 8. How to Use
+## 🚀 7. How to Use
 
 1. Clone or download this repository.
 2. Open the `.pbit` file in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
@@ -81,17 +69,8 @@ If published via Power BI Service:
 
 ---
 
-## 👩‍💻 9. Author
+## 👩‍💻 8. Author
 
-**Your Name**  
-GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
-LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/)  
-
----
-
-## 📜 10. License
-
-This dashboard template is for **educational and demo purposes**.  
-You are free to view, share, and download, but **please do not redistribute without attribution**.
-
----
+**Mridul Jindal**  
+GitHub: https://github.com/NOVAMJ  
+LinkedIn: https://www.linkedin.com/in/mridul-jindal-3b549626b/

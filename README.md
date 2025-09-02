@@ -56,7 +56,7 @@ This template is designed to work with **hospital operational data** from:
 
 | Dashboard View | Description |
 |---------------|-------------|
-| ![Dashboard Screenshot](<img width="1224" height="730" alt="dashboard 1" src="https://github.com/user-attachments/assets/776f5760-d735-469c-94f4-182118f440fb" />) | Overview of patient flow, referrals, and wait times |
+| <img width="1224" height="730" alt="dashboard 1" src="https://github.com/user-attachments/assets/776f5760-d735-469c-94f4-182118f440fb" /> | Overview of patient flow, referrals, and wait times |
 
 
 ---

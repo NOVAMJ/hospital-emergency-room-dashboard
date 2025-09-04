@@ -10,7 +10,7 @@ The Hospital Emergency Room Dashboard is a **Power BI Template (.pbit)** that al
 
 ---
 
-## 🔍 2. Key Features & Highlights
+##  2. Key Features & Highlights
 
 - 📊 **Real-Time KPIs**: Track total patients, admitted patients, referred patients, and discharges.
 - ⏱️ **Average Wait Times**: Monitor ER wait times and identify bottlenecks.
@@ -21,7 +21,7 @@ The Hospital Emergency Room Dashboard is a **Power BI Template (.pbit)** that al
 
 ---
 
-## 🧰 3. Tech Stack
+##  3. Tech Stack
 
 This dashboard was built using:
 
@@ -33,18 +33,18 @@ This dashboard was built using:
 
 ---
 
-## 🗂️ 4. Data Source
+##  4. Data Source
 
 This template is designed to work with **hospital operational data** from:
 - Excel sheets (dummy hospital dataset included or custom data)
 - SQL databases or other healthcare data systems
 - Editable connections in Power BI to integrate your own sources
 
-⚠️ Note: This `.pbit` template does **not** include raw patient data; users must connect their own dataset.
+ Note: This `.pbit` template does **not** include raw patient data; users must connect their own dataset.
 
 ---
 
-## 🎯 5. Audience & Use Cases
+##  5. Audience & Use Cases
 
 - 🏥 **Hospital Administrators** → Understand patient flow, manage resources
 - 👩‍⚕️ **ER Managers** → Monitor real-time patient stats 
@@ -52,7 +52,7 @@ This template is designed to work with **hospital operational data** from:
 
 ---
 
-## 🖼️ 6. Screenshots / Demos
+##  6. Screenshots / Demos
 
 | Dashboard View | Description |
 |---------------|-------------|
@@ -61,17 +61,10 @@ This template is designed to work with **hospital operational data** from:
 
 ---
 
-## 🚀 7. How to Use
+##  7. How to Use
 
 1. Clone or download this repository.
 2. Open the `.pbit` file in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Connect your hospital dataset using Power Query.
 4. Refresh visuals and enjoy real-time analytics.
 
----
-
-## 👩‍💻 8. Author
-
-**Mridul Jindal**  
-GitHub: https://github.com/NOVAMJ  
-LinkedIn: https://www.linkedin.com/in/mridul-jindal-3b549626b/
